@@ -2,8 +2,8 @@
 
 ## 目录
 
-### 数据库相关DataBase Related
+### 数据库
 
 #### MongoDB
 
-##### [MongoDB多数据中心部署方案](mongodb/mongodb_multi_data_center.md)
+##### WIP-[MongoDB多数据中心部署方案](mongodb/mongodb_multi_data_center.md)
